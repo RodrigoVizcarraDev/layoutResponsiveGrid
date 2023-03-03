@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.grid-container > * {
+    box-shadow: 4px 4px 8px rgba(89, 89, 89, 0.823);
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
